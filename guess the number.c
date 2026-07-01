@@ -13,12 +13,12 @@ int main()
     scanf("%d", &guessed);
     if(guessed<randomnumber)
     {
-    printf("please guess higher number\n");}
+    printf("please guess higher 🔺 number\n");}
     else if (guessed > randomnumber )
     {
-    printf("please guess lower number\n");}
+    printf("please guess lower 🔻number\n");}
     else{
-    printf("congrats you guessed it\n");}
+    printf("congrats you guessed it🍻🙂\n");}
     no_of_guesses++;
     
     
